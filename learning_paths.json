@@ -1,4 +1,3 @@
-```json
 [
   {
     "role": "Python Developer",
@@ -106,242 +105,9 @@
             ]
           }
         ]
-      },
-      {
-        "stage": 2,
-        "title": "Intermediate Python",
-        "topics": [
-          {
-            "title": "File Handling",
-            "description": "Read and write files using Python.",
-            "details": [
-              "Open files",
-              "Read files",
-              "Write files",
-              "Append data",
-              "with open()"
-            ]
-          },
-          {
-            "title": "Exception Handling",
-            "description": "Handle errors safely.",
-            "details": [
-              "try",
-              "except",
-              "else",
-              "finally",
-              "raise",
-              "Custom exceptions"
-            ]
-          },
-          {
-            "title": "Modules and Packages",
-            "description": "Organize Python applications.",
-            "details": [
-              "Import modules",
-              "Create modules",
-              "Packages",
-              "Standard library",
-              "pip"
-            ]
-          },
-          {
-            "title": "Object-Oriented Programming",
-            "description": "Learn object-oriented programming.",
-            "details": [
-              "Classes",
-              "Objects",
-              "Constructors",
-              "Methods",
-              "Inheritance",
-              "Encapsulation",
-              "Polymorphism",
-              "Abstraction"
-            ]
-          },
-          {
-            "title": "Virtual Environments",
-            "description": "Manage project dependencies.",
-            "details": [
-              "Create virtual environments",
-              "Activate environments",
-              "Install packages",
-              "requirements.txt",
-              "Dependency management"
-            ]
-          }
-        ]
-      },
-      {
-        "stage": 3,
-        "title": "Advanced Python",
-        "topics": [
-          {
-            "title": "Advanced Python Concepts",
-            "description": "Learn advanced Python programming.",
-            "details": [
-              "Iterators",
-              "Generators",
-              "Decorators",
-              "Context managers",
-              "Regular expressions",
-              "map()",
-              "filter()",
-              "reduce()"
-            ]
-          },
-          {
-            "title": "Data Structures and Algorithms",
-            "description": "Develop problem-solving skills.",
-            "details": [
-              "Arrays",
-              "Strings",
-              "Hashing",
-              "Stack",
-              "Queue",
-              "Linked lists",
-              "Searching",
-              "Sorting",
-              "Recursion"
-            ]
-          }
-        ]
-      },
-      {
-        "stage": 4,
-        "title": "Databases and Web Development",
-        "topics": [
-          {
-            "title": "SQL and Databases",
-            "description": "Learn relational databases and SQL.",
-            "details": [
-              "RDBMS",
-              "Create databases",
-              "Create tables",
-              "SELECT",
-              "INSERT",
-              "UPDATE",
-              "DELETE",
-              "Primary keys",
-              "Foreign keys",
-              "Joins",
-              "Aggregate functions"
-            ]
-          },
-          {
-            "title": "Flask",
-            "description": "Build web applications using Flask.",
-            "details": [
-              "Flask installation",
-              "Flask application",
-              "Routes",
-              "Templates",
-              "Jinja",
-              "Forms",
-              "Flask-SQLAlchemy",
-              "CRUD applications"
-            ]
-          },
-          {
-            "title": "REST APIs",
-            "description": "Build and consume REST APIs.",
-            "details": [
-              "API fundamentals",
-              "HTTP",
-              "GET",
-              "POST",
-              "PUT",
-              "DELETE",
-              "JSON",
-              "Status codes"
-            ]
-          },
-          {
-            "title": "Authentication",
-            "description": "Implement user authentication.",
-            "details": [
-              "Registration",
-              "Login",
-              "Logout",
-              "Password hashing",
-              "Sessions",
-              "Flask-Login",
-              "Access control"
-            ]
-          }
-        ]
-      },
-      {
-        "stage": 5,
-        "title": "Tools, Projects and Career",
-        "topics": [
-          {
-            "title": "Git and GitHub",
-            "description": "Manage and publish your code.",
-            "details": [
-              "Git basics",
-              "Repository",
-              "git add",
-              "git commit",
-              "git push",
-              "git pull",
-              "Branches",
-              "GitHub portfolio"
-            ]
-          },
-          {
-            "title": "Testing",
-            "description": "Test Python applications.",
-            "details": [
-              "Unit testing",
-              "pytest",
-              "Assertions",
-              "Test cases",
-              "Flask testing"
-            ]
-          },
-          {
-            "title": "Deployment",
-            "description": "Deploy Python web applications.",
-            "details": [
-              "Environment variables",
-              "Production configuration",
-              "Gunicorn",
-              "Hosting",
-              "Deployment"
-            ]
-          },
-          {
-            "title": "Projects",
-            "description": "Build practical projects for your portfolio.",
-            "details": [
-              "Python project",
-              "SQL project",
-              "Flask CRUD project",
-              "REST API project",
-              "Full-stack project",
-              "GitHub portfolio"
-            ]
-          },
-          {
-            "title": "Interview Preparation",
-            "description": "Prepare for Python developer interviews.",
-            "details": [
-              "Python interview questions",
-              "SQL questions",
-              "OOP questions",
-              "Flask questions",
-              "REST API questions",
-              "DSA practice",
-              "Coding challenges",
-              "HR preparation"
-            ]
-          }
-        ]
       }
     ]
   },
-
   {
     "role": "Frontend Developer",
     "description": "Become a frontend developer from beginner to job-ready.",
@@ -381,129 +147,9 @@
             ]
           }
         ]
-      },
-      {
-        "stage": 2,
-        "title": "JavaScript",
-        "topics": [
-          {
-            "title": "JavaScript Basics",
-            "description": "Learn programming for web browsers.",
-            "details": [
-              "Variables",
-              "Data types",
-              "Operators",
-              "Conditions",
-              "Loops",
-              "Functions",
-              "Arrays",
-              "Objects"
-            ]
-          },
-          {
-            "title": "DOM Manipulation",
-            "description": "Make web pages interactive.",
-            "details": [
-              "DOM",
-              "Select elements",
-              "Modify elements",
-              "Events",
-              "Event listeners",
-              "Forms",
-              "Validation"
-            ]
-          },
-          {
-            "title": "Modern JavaScript",
-            "description": "Learn modern JavaScript features.",
-            "details": [
-              "let and const",
-              "Arrow functions",
-              "Destructuring",
-              "Spread operator",
-              "Modules",
-              "Promises",
-              "async/await",
-              "Fetch API"
-            ]
-          }
-        ]
-      },
-      {
-        "stage": 3,
-        "title": "Frontend Frameworks",
-        "topics": [
-          {
-            "title": "React",
-            "description": "Build modern frontend applications.",
-            "details": [
-              "Components",
-              "JSX",
-              "Props",
-              "State",
-              "Events",
-              "Hooks",
-              "Forms",
-              "React Router"
-            ]
-          },
-          {
-            "title": "Frontend APIs",
-            "description": "Connect frontend applications with APIs.",
-            "details": [
-              "HTTP requests",
-              "REST APIs",
-              "Fetch",
-              "JSON",
-              "Loading states",
-              "Error handling"
-            ]
-          }
-        ]
-      },
-      {
-        "stage": 4,
-        "title": "Tools and Projects",
-        "topics": [
-          {
-            "title": "Git and GitHub",
-            "description": "Manage frontend projects.",
-            "details": [
-              "Git basics",
-              "Commits",
-              "Branches",
-              "GitHub repositories",
-              "Pull requests"
-            ]
-          },
-          {
-            "title": "Projects",
-            "description": "Build a frontend portfolio.",
-            "details": [
-              "Responsive website",
-              "Portfolio website",
-              "JavaScript application",
-              "React application",
-              "API-based project"
-            ]
-          },
-          {
-            "title": "Interview Preparation",
-            "description": "Prepare for frontend interviews.",
-            "details": [
-              "HTML questions",
-              "CSS questions",
-              "JavaScript questions",
-              "React questions",
-              "Coding practice",
-              "Project explanation"
-            ]
-          }
-        ]
       }
     ]
   },
-
   {
     "role": "Full Stack Developer",
     "description": "Learn frontend, backend, databases, APIs and deployment.",
@@ -538,119 +184,9 @@
             ]
           }
         ]
-      },
-      {
-        "stage": 2,
-        "title": "Frontend Framework",
-        "topics": [
-          {
-            "title": "React",
-            "description": "Build component-based applications.",
-            "details": [
-              "Components",
-              "JSX",
-              "Props",
-              "State",
-              "Hooks",
-              "Routing",
-              "API integration"
-            ]
-          }
-        ]
-      },
-      {
-        "stage": 3,
-        "title": "Backend Development",
-        "topics": [
-          {
-            "title": "Backend Programming",
-            "description": "Build server-side applications.",
-            "details": [
-              "Python or JavaScript",
-              "Server concepts",
-              "Routing",
-              "Middleware",
-              "Forms",
-              "Error handling"
-            ]
-          },
-          {
-            "title": "REST APIs",
-            "description": "Build APIs for frontend-backend communication.",
-            "details": [
-              "HTTP",
-              "GET",
-              "POST",
-              "PUT",
-              "DELETE",
-              "JSON",
-              "Authentication"
-            ]
-          }
-        ]
-      },
-      {
-        "stage": 4,
-        "title": "Database and Deployment",
-        "topics": [
-          {
-            "title": "SQL and Databases",
-            "description": "Store and manage application data.",
-            "details": [
-              "SQL",
-              "Tables",
-              "Relationships",
-              "Primary keys",
-              "Foreign keys",
-              "Joins",
-              "CRUD"
-            ]
-          },
-          {
-            "title": "Deployment",
-            "description": "Deploy full-stack applications.",
-            "details": [
-              "GitHub",
-              "Environment variables",
-              "Hosting",
-              "Domain basics",
-              "Production configuration"
-            ]
-          }
-        ]
-      },
-      {
-        "stage": 5,
-        "title": "Projects and Interviews",
-        "topics": [
-          {
-            "title": "Full Stack Projects",
-            "description": "Build complete web applications.",
-            "details": [
-              "Authentication system",
-              "CRUD application",
-              "E-commerce project",
-              "Dashboard",
-              "API-based application"
-            ]
-          },
-          {
-            "title": "Interview Preparation",
-            "description": "Prepare for full-stack interviews.",
-            "details": [
-              "Frontend questions",
-              "Backend questions",
-              "Database questions",
-              "API questions",
-              "DSA",
-              "Project explanation"
-            ]
-          }
-        ]
       }
     ]
   },
-
   {
     "role": "Data Analyst",
     "description": "Learn data analysis, visualization and business insights.",
@@ -686,37 +222,92 @@
             ]
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "role": "AI / ML Engineer",
+    "description": "Learn artificial intelligence and machine learning from fundamentals to projects.",
+    "stages": [
       {
-        "stage": 2,
-        "title": "SQL",
+        "stage": 1,
+        "title": "Programming and Mathematics",
         "topics": [
           {
-            "title": "SQL Fundamentals",
-            "description": "Query and analyze databases.",
+            "title": "Python for AI",
+            "description": "Learn Python programming for AI applications.",
             "details": [
-              "SELECT",
-              "WHERE",
-              "ORDER BY",
-              "GROUP BY",
-              "HAVING",
-              "JOIN",
-              "Subqueries"
+              "Python basics",
+              "Functions",
+              "OOP",
+              "NumPy",
+              "Pandas",
+              "Matplotlib"
             ]
           },
           {
-            "title": "Advanced SQL",
-            "description": "Perform advanced data analysis.",
+            "title": "Mathematics",
+            "description": "Learn mathematical foundations for machine learning.",
             "details": [
-              "Window functions",
-              "CTEs",
-              "CASE",
-              "Aggregate functions",
-              "Date functions"
+              "Linear algebra",
+              "Vectors",
+              "Matrices",
+              "Probability",
+              "Statistics",
+              "Calculus basics"
             ]
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "role": "Java Developer",
+    "description": "Become a Java developer from beginner to job-ready.",
+    "stages": [
       {
-        "s
-```
+        "stage": 1,
+        "title": "Java Fundamentals",
+        "topics": [
+          {
+            "title": "Java Basics",
+            "description": "Learn Java programming fundamentals.",
+            "details": [
+              "Java installation",
+              "JDK",
+              "Variables",
+              "Data types",
+              "Operators",
+              "Input and output"
+            ]
+          },
+          {
+            "title": "Control Flow",
+            "description": "Control program execution.",
+            "details": [
+              "if-else",
+              "switch",
+              "for loop",
+              "while loop",
+              "do-while",
+              "break",
+              "continue"
+            ]
+          },
+          {
+            "title": "Methods and Arrays",
+            "description": "Build reusable Java code.",
+            "details": [
+              "Methods",
+              "Parameters",
+              "Return values",
+              "Arrays",
+              "Strings",
+              "StringBuilder"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
