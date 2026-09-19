@@ -1,107 +1,46 @@
 [
   {
-    "role": "Python Developer",
-    "description": "Become a Python developer from beginner to job-ready.",
+    "role": "Software Testing / QA",
+    "description": "Learn software testing and quality assurance from fundamentals to automation.",
     "stages": [
       {
         "stage": 1,
-        "title": "Python Fundamentals",
+        "title": "Testing Fundamentals",
         "topics": [
           {
-            "title": "Python Basics",
-            "description": "Learn the foundations of Python.",
+            "title": "Software Testing Basics",
+            "description": "Understand the fundamentals of software testing.",
             "details": [
-              "Introduction to Python",
-              "Installing Python",
-              "Python syntax",
-              "Comments",
-              "print()",
-              "Input and output"
+              "What is software testing",
+              "SDLC",
+              "STLC",
+              "Verification and validation",
+              "Bug life cycle"
             ]
           },
           {
-            "title": "Variables and Data Types",
-            "description": "Understand Python variables and data types.",
+            "title": "Manual Testing",
+            "description": "Learn how to test applications manually.",
             "details": [
-              "Variables",
-              "int",
-              "float",
-              "string",
-              "boolean",
-              "Type conversion",
-              "type()"
+              "Test cases",
+              "Test scenarios",
+              "Test plans",
+              "Functional testing",
+              "Regression testing",
+              "Smoke testing",
+              "Sanity testing"
             ]
           },
           {
-            "title": "Operators",
-            "description": "Learn different operators in Python.",
+            "title": "Automation Testing",
+            "description": "Learn automated software testing.",
             "details": [
-              "Arithmetic operators",
-              "Comparison operators",
-              "Logical operators",
-              "Assignment operators",
-              "Membership operators",
-              "Identity operators"
-            ]
-          },
-          {
-            "title": "Conditional Statements",
-            "description": "Control program execution using conditions.",
-            "details": [
-              "if",
-              "if-else",
-              "if-elif-else",
-              "Nested conditions",
-              "Conditional expressions"
-            ]
-          },
-          {
-            "title": "Loops",
-            "description": "Repeat operations using loops.",
-            "details": [
-              "for loop",
-              "while loop",
-              "range()",
-              "break",
-              "continue",
-              "Nested loops"
-            ]
-          },
-          {
-            "title": "Functions",
-            "description": "Create reusable blocks of code.",
-            "details": [
-              "Defining functions",
-              "Parameters and arguments",
-              "Return values",
-              "Default arguments",
-              "Keyword arguments",
-              "*args and **kwargs",
-              "Lambda functions"
-            ]
-          },
-          {
-            "title": "Python Collections",
-            "description": "Work with Python's built-in data structures.",
-            "details": [
-              "Lists",
-              "Tuples",
-              "Sets",
-              "Dictionaries",
-              "Indexing",
-              "Slicing",
-              "Comprehensions"
-            ]
-          },
-          {
-            "title": "Strings",
-            "description": "Work with and manipulate strings.",
-            "details": [
-              "String indexing",
-              "String slicing",
-              "String methods",
-              "String formatting",
-              "f-strings"
+              "Automation concepts",
+              "Selenium",
+              "WebDriver",
+              "Locators",
+              "Test scripts",
+              "Test frameworks"
             ]
           }
         ]
@@ -109,41 +48,45 @@
     ]
   },
   {
-    "role": "Frontend Developer",
-    "description": "Become a frontend developer from beginner to job-ready.",
+    "role": "DevOps Engineer",
+    "description": "Learn development, operations, automation, CI/CD and cloud technologies.",
     "stages": [
       {
         "stage": 1,
-        "title": "Web Fundamentals",
+        "title": "DevOps Fundamentals",
         "topics": [
           {
-            "title": "HTML",
-            "description": "Learn the structure of web pages.",
+            "title": "Linux",
+            "description": "Learn Linux fundamentals for DevOps.",
             "details": [
-              "HTML syntax",
-              "Headings",
-              "Paragraphs",
-              "Links",
+              "Linux commands",
+              "File system",
+              "Permissions",
+              "Processes",
+              "Shell scripting"
+            ]
+          },
+          {
+            "title": "Git and GitHub",
+            "description": "Manage source code using Git.",
+            "details": [
+              "Git basics",
+              "Repositories",
+              "Branches",
+              "Merge",
+              "Pull requests",
+              "GitHub"
+            ]
+          },
+          {
+            "title": "Docker",
+            "description": "Learn containerization with Docker.",
+            "details": [
+              "Containers",
               "Images",
-              "Lists",
-              "Tables",
-              "Forms",
-              "Semantic HTML"
-            ]
-          },
-          {
-            "title": "CSS",
-            "description": "Style and design web pages.",
-            "details": [
-              "Selectors",
-              "Colors",
-              "Fonts",
-              "Box model",
-              "Display",
-              "Position",
-              "Flexbox",
-              "CSS Grid",
-              "Responsive design"
+              "Dockerfile",
+              "Docker commands",
+              "Docker Compose"
             ]
           }
         ]
@@ -151,36 +94,36 @@
     ]
   },
   {
-    "role": "Full Stack Developer",
-    "description": "Learn frontend, backend, databases, APIs and deployment.",
+    "role": "Cloud Engineer",
+    "description": "Learn cloud computing, infrastructure and cloud deployment.",
     "stages": [
       {
         "stage": 1,
-        "title": "Frontend Fundamentals",
+        "title": "Cloud Fundamentals",
         "topics": [
           {
-            "title": "HTML and CSS",
-            "description": "Build and style web pages.",
+            "title": "Cloud Computing",
+            "description": "Understand cloud computing concepts.",
             "details": [
-              "HTML",
-              "Semantic HTML",
-              "CSS",
-              "Flexbox",
-              "Grid",
-              "Responsive design"
+              "Cloud computing",
+              "IaaS",
+              "PaaS",
+              "SaaS",
+              "Public cloud",
+              "Private cloud",
+              "Hybrid cloud"
             ]
           },
           {
-            "title": "JavaScript",
-            "description": "Add interactivity to websites.",
+            "title": "AWS",
+            "description": "Learn the fundamentals of Amazon Web Services.",
             "details": [
-              "Variables",
-              "Functions",
-              "Arrays",
-              "Objects",
-              "DOM",
-              "Events",
-              "Async JavaScript"
+              "EC2",
+              "S3",
+              "IAM",
+              "VPC",
+              "RDS",
+              "CloudWatch"
             ]
           }
         ]
@@ -188,73 +131,82 @@
     ]
   },
   {
-    "role": "Data Analyst",
-    "description": "Learn data analysis, visualization and business insights.",
+    "role": "Cybersecurity Analyst",
+    "description": "Learn cybersecurity fundamentals, threats, networks and security tools.",
     "stages": [
       {
         "stage": 1,
-        "title": "Data Fundamentals",
+        "title": "Cybersecurity Fundamentals",
         "topics": [
           {
-            "title": "Excel",
-            "description": "Learn spreadsheet-based data analysis.",
+            "title": "Security Basics",
+            "description": "Understand fundamental cybersecurity concepts.",
             "details": [
-              "Formulas",
-              "Functions",
-              "Sorting",
-              "Filtering",
-              "Conditional formatting",
-              "Pivot tables",
-              "Charts"
+              "CIA triad",
+              "Authentication",
+              "Authorization",
+              "Security threats",
+              "Vulnerabilities",
+              "Risk management"
+            ]
+          },
+          {
+            "title": "Network Security",
+            "description": "Learn how to secure computer networks.",
+            "details": [
+              "Firewalls",
+              "VPN",
+              "IDS",
+              "IPS",
+              "Network attacks",
+              "Network monitoring"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "role": "Data Scientist",
+    "description": "Learn statistics, programming, machine learning and data science.",
+    "stages": [
+      {
+        "stage": 1,
+        "title": "Data Science Fundamentals",
+        "topics": [
+          {
+            "title": "Python for Data Science",
+            "description": "Use Python for data analysis and science.",
+            "details": [
+              "Python basics",
+              "NumPy",
+              "Pandas",
+              "Matplotlib",
+              "Data cleaning"
             ]
           },
           {
             "title": "Statistics",
-            "description": "Learn statistics required for analysis.",
+            "description": "Learn statistics for data science.",
             "details": [
-              "Mean",
-              "Median",
-              "Mode",
-              "Percentage",
-              "Probability basics",
-              "Standard deviation",
-              "Correlation"
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "role": "AI / ML Engineer",
-    "description": "Learn artificial intelligence and machine learning from fundamentals to projects.",
-    "stages": [
-      {
-        "stage": 1,
-        "title": "Programming and Mathematics",
-        "topics": [
-          {
-            "title": "Python for AI",
-            "description": "Learn Python programming for AI applications.",
-            "details": [
-              "Python basics",
-              "Functions",
-              "OOP",
-              "NumPy",
-              "Pandas",
-              "Matplotlib"
+              "Descriptive statistics",
+              "Probability",
+              "Distributions",
+              "Hypothesis testing",
+              "Correlation",
+              "Regression"
             ]
           },
           {
-            "title": "Mathematics",
-            "description": "Learn mathematical foundations for machine learning.",
+            "title": "Machine Learning",
+            "description": "Learn machine learning algorithms.",
             "details": [
-              "Linear algebra",
-              "Vectors",
-              "Matrices",
-              "Probability",
-              "Statistics",
-              "Calculus basics"
+              "Supervised learning",
+              "Unsupervised learning",
+              "Regression",
+              "Classification",
+              "Clustering",
+              "Model evaluation"
             ]
           }
         ]
@@ -262,48 +214,371 @@
     ]
   },
   {
-    "role": "Java Developer",
-    "description": "Become a Java developer from beginner to job-ready.",
+    "role": "Backend Developer",
+    "description": "Learn server-side programming, databases, APIs and backend development.",
     "stages": [
       {
         "stage": 1,
-        "title": "Java Fundamentals",
+        "title": "Backend Fundamentals",
         "topics": [
           {
-            "title": "Java Basics",
-            "description": "Learn Java programming fundamentals.",
+            "title": "Backend Programming",
+            "description": "Learn server-side programming concepts.",
             "details": [
-              "Java installation",
-              "JDK",
+              "HTTP",
+              "Client-server architecture",
+              "Request and response",
+              "Routing",
+              "Server-side programming"
+            ]
+          },
+          {
+            "title": "REST APIs",
+            "description": "Build and consume REST APIs.",
+            "details": [
+              "REST",
+              "HTTP methods",
+              "GET",
+              "POST",
+              "PUT",
+              "DELETE",
+              "JSON"
+            ]
+          },
+          {
+            "title": "Databases",
+            "description": "Store and manage application data.",
+            "details": [
+              "SQL",
+              "MySQL",
+              "PostgreSQL",
+              "Tables",
+              "Relationships",
+              "CRUD"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "role": "Mobile App Developer",
+    "description": "Learn mobile application development for Android and cross-platform apps.",
+    "stages": [
+      {
+        "stage": 1,
+        "title": "Mobile Development Fundamentals",
+        "topics": [
+          {
+            "title": "Android Development",
+            "description": "Learn Android application development.",
+            "details": [
+              "Android Studio",
+              "Activities",
+              "Layouts",
+              "Views",
+              "Intents",
+              "Android lifecycle"
+            ]
+          },
+          {
+            "title": "Flutter",
+            "description": "Build cross-platform applications with Flutter.",
+            "details": [
+              "Dart",
+              "Widgets",
+              "Layouts",
+              "Navigation",
+              "State management",
+              "API integration"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "role": "UI/UX Designer",
+    "description": "Learn user interface and user experience design.",
+    "stages": [
+      {
+        "stage": 1,
+        "title": "Design Fundamentals",
+        "topics": [
+          {
+            "title": "UI Design",
+            "description": "Learn principles of user interface design.",
+            "details": [
+              "Color theory",
+              "Typography",
+              "Layout",
+              "Spacing",
+              "Visual hierarchy",
+              "Design systems"
+            ]
+          },
+          {
+            "title": "UX Design",
+            "description": "Understand user experience design.",
+            "details": [
+              "User research",
+              "User personas",
+              "User journeys",
+              "Wireframes",
+              "Prototyping",
+              "Usability testing"
+            ]
+          },
+          {
+            "title": "Figma",
+            "description": "Create professional UI designs using Figma.",
+            "details": [
+              "Frames",
+              "Components",
+              "Auto layout",
+              "Prototypes",
+              "Design systems"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "role": "Database Administrator",
+    "description": "Learn database management, security, backup and performance.",
+    "stages": [
+      {
+        "stage": 1,
+        "title": "Database Fundamentals",
+        "topics": [
+          {
+            "title": "SQL",
+            "description": "Learn SQL for database management.",
+            "details": [
+              "SELECT",
+              "INSERT",
+              "UPDATE",
+              "DELETE",
+              "JOIN",
+              "GROUP BY",
+              "Subqueries"
+            ]
+          },
+          {
+            "title": "Database Management",
+            "description": "Manage and maintain databases.",
+            "details": [
+              "Database users",
+              "Permissions",
+              "Backup",
+              "Recovery",
+              "Indexes",
+              "Performance tuning"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "role": "Network Engineer",
+    "description": "Learn computer networks, protocols, routing and network security.",
+    "stages": [
+      {
+        "stage": 1,
+        "title": "Networking Fundamentals",
+        "topics": [
+          {
+            "title": "Computer Networks",
+            "description": "Understand networking fundamentals.",
+            "details": [
+              "LAN",
+              "WAN",
+              "IP addresses",
+              "MAC addresses",
+              "OSI model",
+              "TCP/IP"
+            ]
+          },
+          {
+            "title": "Networking Protocols",
+            "description": "Learn common network protocols.",
+            "details": [
+              "HTTP",
+              "HTTPS",
+              "DNS",
+              "DHCP",
+              "TCP",
+              "UDP",
+              "FTP"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "role": "Business Analyst",
+    "description": "Learn requirements analysis, business processes and stakeholder management.",
+    "stages": [
+      {
+        "stage": 1,
+        "title": "Business Analysis Fundamentals",
+        "topics": [
+          {
+            "title": "Requirements Analysis",
+            "description": "Learn how to gather and analyze requirements.",
+            "details": [
+              "Business requirements",
+              "Functional requirements",
+              "Non-functional requirements",
+              "Requirement gathering",
+              "Requirement documentation"
+            ]
+          },
+          {
+            "title": "Business Process Modeling",
+            "description": "Understand and document business processes.",
+            "details": [
+              "Process mapping",
+              "Flowcharts",
+              "Use cases",
+              "User stories",
+              "Process improvement"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "role": "Machine Learning Engineer",
+    "description": "Learn machine learning algorithms, model development and deployment.",
+    "stages": [
+      {
+        "stage": 1,
+        "title": "Machine Learning Fundamentals",
+        "topics": [
+          {
+            "title": "ML Algorithms",
+            "description": "Learn important machine learning algorithms.",
+            "details": [
+              "Linear regression",
+              "Logistic regression",
+              "Decision trees",
+              "Random forest",
+              "KNN",
+              "SVM",
+              "Clustering"
+            ]
+          },
+          {
+            "title": "Model Evaluation",
+            "description": "Evaluate and improve machine learning models.",
+            "details": [
+              "Train test split",
+              "Cross validation",
+              "Accuracy",
+              "Precision",
+              "Recall",
+              "F1 score",
+              "Confusion matrix"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "role": "Generative AI Engineer",
+    "description": "Learn generative AI, large language models and AI applications.",
+    "stages": [
+      {
+        "stage": 1,
+        "title": "Generative AI Fundamentals",
+        "topics": [
+          {
+            "title": "Large Language Models",
+            "description": "Understand modern language models.",
+            "details": [
+              "LLM concepts",
+              "Transformers",
+              "Tokens",
+              "Embeddings",
+              "Context windows"
+            ]
+          },
+          {
+            "title": "Prompt Engineering",
+            "description": "Learn how to design effective prompts.",
+            "details": [
+              "Prompt structure",
+              "Few-shot prompting",
+              "Zero-shot prompting",
+              "Chain of thought concepts",
+              "Prompt evaluation"
+            ]
+          },
+          {
+            "title": "AI Applications",
+            "description": "Build applications using generative AI.",
+            "details": [
+              "AI APIs",
+              "Chatbots",
+              "RAG",
+              "Vector databases",
+              "AI agents"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "role": "Software Engineer",
+    "description": "Build strong software development and problem-solving skills.",
+    "stages": [
+      {
+        "stage": 1,
+        "title": "Software Development Fundamentals",
+        "topics": [
+          {
+            "title": "Programming",
+            "description": "Learn programming fundamentals.",
+            "details": [
               "Variables",
               "Data types",
-              "Operators",
-              "Input and output"
+              "Conditions",
+              "Loops",
+              "Functions",
+              "OOP"
             ]
           },
           {
-            "title": "Control Flow",
-            "description": "Control program execution.",
+            "title": "Data Structures and Algorithms",
+            "description": "Develop problem-solving skills.",
             "details": [
-              "if-else",
-              "switch",
-              "for loop",
-              "while loop",
-              "do-while",
-              "break",
-              "continue"
-            ]
-          },
-          {
-            "title": "Methods and Arrays",
-            "description": "Build reusable Java code.",
-            "details": [
-              "Methods",
-              "Parameters",
-              "Return values",
               "Arrays",
               "Strings",
-              "StringBuilder"
+              "Linked lists",
+              "Stacks",
+              "Queues",
+              "Trees",
+              "Sorting",
+              "Searching"
+            ]
+          },
+          {
+            "title": "Software Development",
+            "description": "Learn professional software development practices.",
+            "details": [
+              "Git",
+              "GitHub",
+              "Testing",
+              "Debugging",
+              "Code reviews",
+              "Agile development"
             ]
           }
         ]
