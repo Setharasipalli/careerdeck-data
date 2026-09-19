@@ -1,3 +1,4 @@
+```json
 [
   {
     "role": "Python Developer",
@@ -339,6 +340,383 @@
         ]
       }
     ]
-  }
-]
+  },
+
+  {
+    "role": "Frontend Developer",
+    "description": "Become a frontend developer from beginner to job-ready.",
+    "stages": [
+      {
+        "stage": 1,
+        "title": "Web Fundamentals",
+        "topics": [
+          {
+            "title": "HTML",
+            "description": "Learn the structure of web pages.",
+            "details": [
+              "HTML syntax",
+              "Headings",
+              "Paragraphs",
+              "Links",
+              "Images",
+              "Lists",
+              "Tables",
+              "Forms",
+              "Semantic HTML"
+            ]
+          },
+          {
+            "title": "CSS",
+            "description": "Style and design web pages.",
+            "details": [
+              "Selectors",
+              "Colors",
+              "Fonts",
+              "Box model",
+              "Display",
+              "Position",
+              "Flexbox",
+              "CSS Grid",
+              "Responsive design"
+            ]
+          }
+        ]
+      },
+      {
+        "stage": 2,
+        "title": "JavaScript",
+        "topics": [
+          {
+            "title": "JavaScript Basics",
+            "description": "Learn programming for web browsers.",
+            "details": [
+              "Variables",
+              "Data types",
+              "Operators",
+              "Conditions",
+              "Loops",
+              "Functions",
+              "Arrays",
+              "Objects"
+            ]
+          },
+          {
+            "title": "DOM Manipulation",
+            "description": "Make web pages interactive.",
+            "details": [
+              "DOM",
+              "Select elements",
+              "Modify elements",
+              "Events",
+              "Event listeners",
+              "Forms",
+              "Validation"
+            ]
+          },
+          {
+            "title": "Modern JavaScript",
+            "description": "Learn modern JavaScript features.",
+            "details": [
+              "let and const",
+              "Arrow functions",
+              "Destructuring",
+              "Spread operator",
+              "Modules",
+              "Promises",
+              "async/await",
+              "Fetch API"
+            ]
+          }
+        ]
+      },
+      {
+        "stage": 3,
+        "title": "Frontend Frameworks",
+        "topics": [
+          {
+            "title": "React",
+            "description": "Build modern frontend applications.",
+            "details": [
+              "Components",
+              "JSX",
+              "Props",
+              "State",
+              "Events",
+              "Hooks",
+              "Forms",
+              "React Router"
+            ]
+          },
+          {
+            "title": "Frontend APIs",
+            "description": "Connect frontend applications with APIs.",
+            "details": [
+              "HTTP requests",
+              "REST APIs",
+              "Fetch",
+              "JSON",
+              "Loading states",
+              "Error handling"
+            ]
+          }
+        ]
+      },
+      {
+        "stage": 4,
+        "title": "Tools and Projects",
+        "topics": [
+          {
+            "title": "Git and GitHub",
+            "description": "Manage frontend projects.",
+            "details": [
+              "Git basics",
+              "Commits",
+              "Branches",
+              "GitHub repositories",
+              "Pull requests"
+            ]
+          },
+          {
+            "title": "Projects",
+            "description": "Build a frontend portfolio.",
+            "details": [
+              "Responsive website",
+              "Portfolio website",
+              "JavaScript application",
+              "React application",
+              "API-based project"
+            ]
+          },
+          {
+            "title": "Interview Preparation",
+            "description": "Prepare for frontend interviews.",
+            "details": [
+              "HTML questions",
+              "CSS questions",
+              "JavaScript questions",
+              "React questions",
+              "Coding practice",
+              "Project explanation"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "role": "Full Stack Developer",
+    "description": "Learn frontend, backend, databases, APIs and deployment.",
+    "stages": [
+      {
+        "stage": 1,
+        "title": "Frontend Fundamentals",
+        "topics": [
+          {
+            "title": "HTML and CSS",
+            "description": "Build and style web pages.",
+            "details": [
+              "HTML",
+              "Semantic HTML",
+              "CSS",
+              "Flexbox",
+              "Grid",
+              "Responsive design"
+            ]
+          },
+          {
+            "title": "JavaScript",
+            "description": "Add interactivity to websites.",
+            "details": [
+              "Variables",
+              "Functions",
+              "Arrays",
+              "Objects",
+              "DOM",
+              "Events",
+              "Async JavaScript"
+            ]
+          }
+        ]
+      },
+      {
+        "stage": 2,
+        "title": "Frontend Framework",
+        "topics": [
+          {
+            "title": "React",
+            "description": "Build component-based applications.",
+            "details": [
+              "Components",
+              "JSX",
+              "Props",
+              "State",
+              "Hooks",
+              "Routing",
+              "API integration"
+            ]
+          }
+        ]
+      },
+      {
+        "stage": 3,
+        "title": "Backend Development",
+        "topics": [
+          {
+            "title": "Backend Programming",
+            "description": "Build server-side applications.",
+            "details": [
+              "Python or JavaScript",
+              "Server concepts",
+              "Routing",
+              "Middleware",
+              "Forms",
+              "Error handling"
+            ]
+          },
+          {
+            "title": "REST APIs",
+            "description": "Build APIs for frontend-backend communication.",
+            "details": [
+              "HTTP",
+              "GET",
+              "POST",
+              "PUT",
+              "DELETE",
+              "JSON",
+              "Authentication"
+            ]
+          }
+        ]
+      },
+      {
+        "stage": 4,
+        "title": "Database and Deployment",
+        "topics": [
+          {
+            "title": "SQL and Databases",
+            "description": "Store and manage application data.",
+            "details": [
+              "SQL",
+              "Tables",
+              "Relationships",
+              "Primary keys",
+              "Foreign keys",
+              "Joins",
+              "CRUD"
+            ]
+          },
+          {
+            "title": "Deployment",
+            "description": "Deploy full-stack applications.",
+            "details": [
+              "GitHub",
+              "Environment variables",
+              "Hosting",
+              "Domain basics",
+              "Production configuration"
+            ]
+          }
+        ]
+      },
+      {
+        "stage": 5,
+        "title": "Projects and Interviews",
+        "topics": [
+          {
+            "title": "Full Stack Projects",
+            "description": "Build complete web applications.",
+            "details": [
+              "Authentication system",
+              "CRUD application",
+              "E-commerce project",
+              "Dashboard",
+              "API-based application"
+            ]
+          },
+          {
+            "title": "Interview Preparation",
+            "description": "Prepare for full-stack interviews.",
+            "details": [
+              "Frontend questions",
+              "Backend questions",
+              "Database questions",
+              "API questions",
+              "DSA",
+              "Project explanation"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "role": "Data Analyst",
+    "description": "Learn data analysis, visualization and business insights.",
+    "stages": [
+      {
+        "stage": 1,
+        "title": "Data Fundamentals",
+        "topics": [
+          {
+            "title": "Excel",
+            "description": "Learn spreadsheet-based data analysis.",
+            "details": [
+              "Formulas",
+              "Functions",
+              "Sorting",
+              "Filtering",
+              "Conditional formatting",
+              "Pivot tables",
+              "Charts"
+            ]
+          },
+          {
+            "title": "Statistics",
+            "description": "Learn statistics required for analysis.",
+            "details": [
+              "Mean",
+              "Median",
+              "Mode",
+              "Percentage",
+              "Probability basics",
+              "Standard deviation",
+              "Correlation"
+            ]
+          }
+        ]
+      },
+      {
+        "stage": 2,
+        "title": "SQL",
+        "topics": [
+          {
+            "title": "SQL Fundamentals",
+            "description": "Query and analyze databases.",
+            "details": [
+              "SELECT",
+              "WHERE",
+              "ORDER BY",
+              "GROUP BY",
+              "HAVING",
+              "JOIN",
+              "Subqueries"
+            ]
+          },
+          {
+            "title": "Advanced SQL",
+            "description": "Perform advanced data analysis.",
+            "details": [
+              "Window functions",
+              "CTEs",
+              "CASE",
+              "Aggregate functions",
+              "Date functions"
+            ]
+          }
+        ]
+      },
+      {
+        "s
 ```
